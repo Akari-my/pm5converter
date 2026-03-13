@@ -167,4 +167,4 @@ MIT License
 ## Credits
 
 - Original PM3 to PM4 converter by HimmelKreis4865
-- Updated to PM5 by [Your Name]
+- Updated to PM5 by Mellooh
